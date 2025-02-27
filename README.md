@@ -1,1 +1,1 @@
-# Excercise
+# Weekly excercise
